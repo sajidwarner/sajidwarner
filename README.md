@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 [![Facebook](https://img.shields.io/badge/-@sajidwarner-%3b5998?style=flat-square&logo=facebook&logoColor=ffffff&labelColor=%3b5998&color=%ffffff)](https://facebook.com/sajidwarner)
-[![Linkedin](https://img.shields.io/badge/-@Syed-Sajid-Akram-Hamja-%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/syed-sajid-akram-hamja-25331163/)
+[![Linkedin](https://img.shields.io/badge/-@Syed-Sajid-Akram-Hamja%231DA1F2?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/syed-sajid-akram-hamja-25331163/)
 
 [![Github](https://img.shields.io/badge/-@sajidwarner-%23181717?style=flat-square&logo=github)](https://github.com/sajidwarner)
 
