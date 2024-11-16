@@ -32,7 +32,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white)
 
 
-#Tools & Platforms
+Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
