@@ -54,6 +54,8 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-%230077B5?style=flat-square&logo=phpstorm&logoColor=ffffff)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-%23575757?style=flat-square&logo=sublime-text&logoColor=ff9800)
 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
