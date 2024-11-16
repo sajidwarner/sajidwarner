@@ -28,9 +28,6 @@ Frontend Technologies
 ![AJAX](https://img.shields.io/badge/-AJAX-%23404040?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 
 
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
