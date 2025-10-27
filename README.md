@@ -16,6 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidwarner&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidwarner&show_icons=true&theme=radical)
+
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 Frontend Technologies
