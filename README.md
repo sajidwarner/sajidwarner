@@ -29,8 +29,6 @@ Backend Technologies
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white)
 
 
 Tools & Platforms
@@ -46,25 +44,35 @@ Tools & Platforms
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-%23575757?style=flat-square&logo=sublime-text&logoColor=ff9800)
 
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+<!--
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sajidwarner)
+**sajidwarner/sajidwarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+# Hi there 👋, I'm Syed Sajid Akram
+
+## 🔭 I’m currently working on
+Building scalable full-stack web applications with **Laravel**, **PHP**, and modern JavaScript frameworks such as **React** and **Next.js**, using **Laravel Blade** for server-side rendering.
+
+## 🌱 I’m currently learning
+Advanced **system design**, **microservices architecture**, and **DevOps tools** like **Docker**, **Kubernetes**, and **AWS**.
+
+## 👯 I’m looking to collaborate on
+Open-source **Laravel packages**, **API-driven SaaS applications**, and **high-performance backend systems**.
+
+## 🤔 I’m looking for help with
+Improving **cloud-native deployments**, **scaling large applications**, and **optimizing performance**.
+
+## 💬 Ask me about
+**Laravel**, **PHP**, **REST APIs**, **full-stack development**, **scalable architecture**, **database optimization**, and **performance tuning**.
+
+## 😄 Pronouns
+He / Him
+
+## ⚡ Fun fact
+I love **optimizing slow queries**, **breaking monoliths**, and turning messy code into **clean, maintainable architecture**.
 
 <!--
-**sajidwarner/sajidwarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidwarner)](https://github.com/anuraghazra/github-readme-stats)
 -->
